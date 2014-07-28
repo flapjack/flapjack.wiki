@@ -2,29 +2,29 @@ Welcome to the Flapjack Wiki.
 
 ### Documentation
 
-- [Using Flapjack](wiki/USING)
+- [Using Flapjack](http://flapjack.io/docs/0.9/USING)
 - [JSONAPI](http://flapjack.io/docs/jsonapi)
-- [API](wiki/API) (deprecated)
-- [Notification Routing](wiki/Notification-Routing)
-- [Importing](wiki/IMPORTING)
-- [Debugging Flapjack](wiki/DEBUGGING)
-- [Developing Flapjack](wiki/DEVELOPING)
-- [Redis Data Structure](wiki/DATA_STRUCTURES)
-- [Flapjack Glossary](wiki/GLOSSARY)
-- [Release Planning](wiki/Release-Planning)
-- [Out Of Band, End To End Test (oobetet)](wiki/oobetet)
-- Methods for [promoting Flapjack](wiki/Promoting)
+- [API](http://flapjack.io/docs/0.9/API) (deprecated)
+- [Notification Routing](http://flapjack.io/docs/0.9/Notification-Routing)
+- [Importing](http://flapjack.io/docs/0.9/IMPORTING)
+- [Debugging Flapjack](http://flapjack.io/docs/0.9/DEBUGGING)
+- [Developing Flapjack](http://flapjack.io/docs/0.9/DEVELOPING)
+- [Redis Data Structure](http://flapjack.io/docs/0.9/DATA_STRUCTURES)
+- [Flapjack Glossary](http://flapjack.io/docs/0.9/GLOSSARY)
+- [Release Planning](http://flapjack.io/docs/0.9/Release-Planning)
+- [Out Of Band, End To End Test (oobetet)](http://flapjack.io/docs/0.9/oobetet)
+- Methods for [promoting Flapjack](http://flapjack.io/docs/0.9/Promoting)
 
 ### Logo
 
 Formats:
 
-* [JPEG](https://raw.github.com/wiki/flpjck/flapjack/artwork/flapjack.jpg)
-* [PNG](https://raw.github.com/wiki/flpjck/flapjack/artwork/flapjack.png)
-* [EPS](https://raw.github.com/wiki/flpjck/flapjack/artwork/flapjack.eps)
+* [JPG](http://flapjack.io/images/flapjack.jpg)
+* [PNG](http://flapjack.io/images/flapjack.png)
+* [EPS](http://flapjack.io/images/flapjack.eps)
 
 Or download the
-[logo bundle zip](https://raw.github.com/wiki/flpjck/flapjack/flapjack.zip)
+[logo bundle zip](http://flapjack.io/images/flapjack.zip)
 (includes the Illustrator source).
 
 The Flapjack logo is shared under the
@@ -33,8 +33,8 @@ license.
 
 Font used in logo is [Exo](http://www.google.com/fonts/specimen/Exo).
 
-There is an [Apple colour palette](https://raw.github.com/wiki/flpjck/flapjack/artwork/Flapjack.clr) available for use on OS X.
+There is an [Apple colour palette](http://flapjack.io/images/Flapjack.clr) available for use on OS X.
 
 ### Sources
 
-* [Architecture diagrams](https://raw.github.com/wiki/flpjck/flapjack/artwork/Flapjack%20Architecture.key)
+* [Architecture diagrams](http://flapjack.io/images/Flapjack%20Architecture.key)
