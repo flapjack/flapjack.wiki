@@ -1,17 +1,5 @@
+This page has now moved. Please select your version of Flapjack below to be redirected to the new page.
 
-As implemented for the reporting API functions, these are placeholder terms only and open for discussion.
+[0.9](http://flapjack.io/docs/0.9/usage/GLOSSARY)
 
-<dl>
-<dt>Entity</dt>
-<dd>A system or group of systems being monitored. An entity can be as simple as a VM or as complex as a datacenter containing racks of servers running farms of VMs.</dd>
-<dt>Check</dt>
-<dd>A particular attribute of an entity which for which we care about changes in state</dd>
-<dt>Outage</dt>
-<dd>Period of time from when a check goes into the `CRITICAL` state to when it comes out of that state again.</dd>
-<dt>Scheduled maintenance</dt>
-<dd>Periods of time explicitly created by external actors to denote that maintenance is scheduled to occur at these times.</dd>
-<dt>Unscheduled maintenance</dt>
-<dd>Periods of time explicitly created by external actors to denote that maintenance is happening or has happened at these times.</dd>
-<dt>Downtime</dt>
-<dd>Outages minus scheduled maintenances across any given time period.</dd>
-</dl>
+[1.0](http://flapjack.io/docs/1.0/usage/GLOSSARY)
