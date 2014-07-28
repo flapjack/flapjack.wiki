@@ -1,13 +1,5 @@
-This is how events are turned into notifications, and how notifications are routed to contacts:
+This page has now moved. Please select your version of Flapjack below to be redirected to the new page.
 
-![notification routing](https://raw.github.com/wiki/flpjck/flapjack/notification-routing.gif)
+[0.9](http://flapjack.io/docs/0.9/Notification-Routing)
 
-#### Creating the above animation
-
-1. Export [architecture diagrams](https://raw.github.com/wiki/flpjck/flapjack/Flapjack%20Architecture.key) to PNG
-2. Run this shell:
-
-``` bash
-for f in *.png ; do convert $f $(basename $f .png).gif ; done
-gifsicle --delay=200 --loop *.gif > anim.gif
-```
+[1.0](http://flapjack.io/docs/1.0/usage/Notification-Routing)
