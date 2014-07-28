@@ -1,5 +1,5 @@
-This page has now moved. Please select your version of Flapjack below to be redirected to the new page.
+Can get a pretty good out of box experience with docker and flapjack (running redis inside or outside)
 
-[0.9](http://flapjack.io/docs/0.9/development/Pre-made-docker-image-for-flapjack)
+I would propose setting up a hub.docker.com "org" for flapjack - adding a few owners - and then setting up an automated build/publish so people can trivially run flapjack via docker with confidence the image is the official one. 
 
-[1.0](http://flapjack.io/docs/1.0/development/Pre-made-docker-image-for-flapjack)
+Happy to "own" this - Michael.
